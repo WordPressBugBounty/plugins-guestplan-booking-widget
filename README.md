@@ -1,0 +1,1 @@
+# plugins-guestplan-booking-widget
